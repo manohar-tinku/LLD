@@ -11,7 +11,8 @@ This principle designed based on the inheritance concepts.
 
 Advantage:
 ==========
-This avoids misusing inheritance
+1. This avoids misusing inheritance
+2. Developers can achieve code reusability, maintainability, and flexibility
 
 One more Example:
 ===============
